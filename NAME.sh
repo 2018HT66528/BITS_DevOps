@@ -10,3 +10,4 @@ read firstname; # Read input first name from User
 echo "Please Enter your Last Name:"; # Display Message to User
 read lastname; # Read input as last name from User
 echo "Here is your full name: $firstname $lastname" # Display the inputs with proper statement to the User
+echo "\nThe current Date and time is:";date
